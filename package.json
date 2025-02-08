@@ -13,8 +13,12 @@
   "license": "ISC",
   "dependencies": {
     "@google-cloud/speech": "^6.7.0",
+    "@lit-protocol/auth-helpers": "^7.0.6",
+    "@lit-protocol/constants": "^7.0.6",
+    "@lit-protocol/encryption": "^7.0.6",
+    "@lit-protocol/lit-node-client": "^7.0.6",
     "@lit-protocol/sdk-nodejs": "^1.1.250",
-    "ethers": "^6.13.5",
+    "ethers": "^5.7.2",
     "next": "^15.1.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
